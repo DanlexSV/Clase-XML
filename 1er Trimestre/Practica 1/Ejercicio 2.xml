@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libreria>
+    <libro>
+        <titulo>Oscuros</titulo>
+        <autores>
+            <autor1>
+                <nombre>Lauren</nombre>
+                <apellidos>Kate </apellidos>
+            </autor1>
+        </autores>
+        <editorial>Editorial1</editorial>
+        <fechaPublicacion>2005</fechaPublicacion>
+        <isbn>179003421</isbn>
+    </libro>
+    <libro>
+        <titulo>Romeo y Julieta</titulo>
+        <autores>
+            <autor1>
+                <nombre>William</nombre>
+                <apellidos>Shakespeare</apellidos>
+            </autor1>
+        </autores>
+        <editorial>Editorial2</editorial>
+        <fechaPublicacion>1597</fechaPublicacion>
+        <isbn>900124536</isbn>
+    </libro>
+    <libro>
+        <titulo>Aprender Java</titulo>
+        <autores>
+            <autor1>
+                <nombre>Carmen</nombre>
+                <apellidos>Fernandez</apellidos>
+            </autor1>
+            <autor2>
+                <nombre>Pablo</nombre>
+                <apellidos>Ruiz</apellidos>
+            </autor2>
+        </autores>
+        <editorial>Editorial3</editorial>
+        <fechaPublicacion>2006</fechaPublicacion>
+        <isbn>864110039</isbn>
+    </libro>
+    <libro>
+        <titulo>Death Note</titulo>
+        <autores>
+            <autor1>
+                <nombre>Tsugumi</nombre>
+                <apellidos>Ooba</apellidos>
+            </autor1>
+        </autores>
+        <editorial>Editorial4</editorial>
+        <fechaPublicacion>2010</fechaPublicacion>
+        <isbn>7740183200</isbn>
+    </libro>
+    <libro>
+        <titulo>Curso de Python</titulo>
+        <autores>
+            <autor1>
+                <nombre>Alvaro</nombre>
+                <apellidos>Vicente</apellidos>
+            </autor1>
+            <autor2>
+                <nombre>Esther</nombre>
+                <apellidos>Rivera</apellidos>
+            </autor2>
+        </autores>
+        <editorial>Editorial5</editorial>
+        <fechaPublicacion>2012</fechaPublicacion>
+        <isbn>9004182134</isbn>
+    </libro>
+</Libreria>

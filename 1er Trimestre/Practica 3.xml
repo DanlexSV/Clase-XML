@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecnologia>
+    <IBM ibm = "da a conocer el PC">
+        <fechas>
+            <dia>12</dia>
+            <mes>8</mes>
+            <año>1981</año>
+        </fechas>
+    </IBM>
+    <fundacionGoogle>
+        <fechas>
+            <dia>4</dia>
+            <mes>9</mes>
+            <año>1998</año>
+        </fechas>
+    </fundacionGoogle>
+    <fundacionFacebook>
+        <fechas>
+            <dia>4</dia>
+            <mes>2</mes>
+            <año>2004</año>
+        </fechas>
+    </fundacionFacebook>
+</tecnologia>

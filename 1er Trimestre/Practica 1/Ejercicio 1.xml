@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libreria>
+    <libro>
+        <titulo></titulo>
+        <autores>
+            <autor1>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor1>
+            <autor2>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor2>
+        </autores>
+        <editorial></editorial>
+        <fechaPublicacion></fechaPublicacion>
+        <isbn></isbn>
+    </libro>
+</Libreria>

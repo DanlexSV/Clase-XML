@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ligaDeportiva>
+    <equiposJuveniles>
+        <Equipo1>
+            <nombreEquipo>Real Madrid</nombreEquipo>
+            <ciudad>Madrid</ciudad>
+            <nombreEntrenador></nombreEntrenador>
+            <jugadores>
+                <jugador1>
+                    <nombreJugador>Vinicios Jr.</nombreJugador>
+                    <posicion position = "delantero"/>
+                    <nacionalidad>Brasileño</nacionalidad>
+                </jugador1>
+                <jugador2>
+                    <nombreJugador>Marcelo</nombreJugador>
+                    <posicion position = "defensa"/>
+                    <nacionalidad>Brasileño</nacionalidad>
+                </jugador2>
+            </jugadores>
+        </Equipo1>
+        <Equipo1>
+            <nombreEquipo>Dortmund</nombreEquipo>
+            <ciudad>Dortmund</ciudad>
+            <nombreEntrenador></nombreEntrenador>
+            <jugadores>
+                <jugador1>
+                    <nombreJugador>Marco Reus</nombreJugador>
+                    <posicion position = "medio"/>
+                    <nacionalidad>Aleman</nacionalidad>
+                </jugador1>
+                <jugador2>
+                    <nombreJugador>Niclas Füllkrug</nombreJugador>
+                    <posicion position = "delantero"/>
+                    <nacionalidad>Aleman</nacionalidad>
+                </jugador2>
+            </jugadores>
+        </Equipo1>
+    </equiposJuveniles>
+</ligaDeportiva>
