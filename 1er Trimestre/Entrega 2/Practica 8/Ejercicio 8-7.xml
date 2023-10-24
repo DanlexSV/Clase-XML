@@ -17,10 +17,10 @@
         <país codpais="P4">Noruega</país>
     </paises>
     <ciudades>
-        <ciudad país="3">Osaka</ciudad>
+        <ciudad país="P1">Osaka</ciudad>
         <ciudad>Oslo</ciudad>
-        <ciudad país="">Sevilla</ciudad>
-        <ciudad país="3">Tokio</ciudad>
-        <ciudad país="2">Viena</ciudad>
+        <ciudad país="P2">Sevilla</ciudad>
+        <ciudad país="P3">Tokio</ciudad>
+        <ciudad país="P4">Viena</ciudad>
     </ciudades>
 </geografía>

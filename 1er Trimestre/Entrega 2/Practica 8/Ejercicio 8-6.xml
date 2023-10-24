@@ -10,9 +10,9 @@
 ]>
 
 <fútbol>
-    <jugador nombre="Alfredo Di Stéfano" código="ads"/>
-    <jugador nombre="Edison Arantes do Nascimento" código="ean" />
-    <jugador nombre="Diego Armando Maradona" código="dam" />
+    <jugador nombre="Alfredo Di Stéfano" codigo="ads"/>
+    <jugador nombre="Edison Arantes do Nascimento" codigo="ean" />
+    <jugador nombre="Diego Armando Maradona" codigo="dam" />
     <jugador nombre="Johan Cruyff" codigo="jc" />
     <equipo nombre="Società Sportiva Calcio Napoli" jugadores="Maradona" />
     <equipo nombre="Fútbol Club Barcelona" jugadores="Cruyff, Maradona" />

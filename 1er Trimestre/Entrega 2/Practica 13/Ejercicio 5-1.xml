@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <numPaginas>830</numPaginas>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <numPaginas>124</numPaginas>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editor>Dykinson</editor>
+        <numPaginas>97</numPaginas>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+    </libro>
+    <libro>
+        <titulo>La chica del tren</titulo>
+        <autor>Paula Hawkins</autor>
+        <editor>Aleix Montoto Llagostera</editor>
+        <numPaginas>496</numPaginas>
+        <isbn>9-788408-193029</isbn>
+        <precio>9.45</precio>
+    </libro>
+    <libro>
+        <titulo>Solo Leveling</titulo>
+        <autor>Chu-Gong</autor>
+        <editor>DUBU (REDICE STUDIO)</editor>
+        <numPaginas>320</numPaginas>
+        <isbn>978-846780-2905</isbn>
+        <precio>14.20</precio>
+    </libro>
+</libreria>
