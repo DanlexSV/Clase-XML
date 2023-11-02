@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsi:stylesheet version="1.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <xsi:template match="/">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:template match="/">
         <html>
             <body>
                 <h1>Mi biblioteca</h1>
@@ -10,14 +9,14 @@
                         <th>Título</th>
                         <th>Autor</th>
                     </tr>
-                    <xsi:for-each select = "libreria/libro">
+                    <xsl:for-each select = "libreria/libro">
                     <tr>
-                        <td><xsi:value-of select = "titulo"/></td>
-                        <td><xsi:value-of select = "autor"/></td>
+                        <td><xsl:value-of select = "titulo"/></td>
+                        <td><xsl:value-of select = "autor"/></td>
                     </tr>
-                    </xsi:for-each>
+                    </xsl:for-each>
                 </table>
             </body>
         </html>
-    </xsi:template>
-</xsi:stylesheet>
+    </xsl:template>
+</xsl:stylesheet>
