@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Practica 18.3.xsl"?>
+
+<VideoClub>
+    <Pelicula>
+        <Titulo>Kimi no Na wa</Titulo>
+        <Nacionalidad>Japon</Nacionalidad>
+        <Productor>CoMix Wave Films</Productor>
+        <Director>Makoto Shinkai</Director>
+        <Anio>2016</Anio>
+        <Duracion>1h 47m</Duracion>
+        <Genero>Anime, Fantasia</Genero>
+        <Sinopsis>
+            Taki y Mitsuha descubren un día que durante el sueño sus 
+            cuerpos se intercambian, y comienzan a comunicarse por 
+            medio de notas. A medida que consiguen superar torpemente
+            un reto tras otro, se va creando entre los dos un vínculo
+            que poco a poco se convierte en algo más romántico.
+        </Sinopsis>
+        <Foto>Your_Name.png</Foto>
+        <URL>https://animefenix.tv/kimi-no-na-wa</URL>
+    </Pelicula>
+
+    <Pelicula>
+        <Titulo>Suzume No Tojimari</Titulo>
+        <Nacionalidad>Japon</Nacionalidad>
+        <Productor>CoMix Wave Films</Productor>
+        <Director>Makoto Shinkai</Director>
+        <Anio>2022</Anio>
+        <Duracion>2h 2m</Duracion>
+        <Genero>Anime, Ciencia Ficción Fantástica</Genero>
+        <Sinopsis>
+            Suzume, de 17 años, descubre una misteriosa puerta en las 
+            montañas, y pronto empiezan a aparecer otras puertas por 
+            todo Japón. Cuando las puertas se abren, liberan desastres
+            y destrucción, y depende de Suzume volver a cerrarlas.
+        </Sinopsis>
+        <Foto>Suzume.png</Foto>
+        <URL>https://animefenix.tv/suzume-no-tojimari</URL>
+    </Pelicula>
+
+    <Pelicula>
+        <Titulo>Karakai Jouzu no Takagi-san Movie</Titulo>
+        <Nacionalidad>Japon</Nacionalidad>
+        <Productor>Shin-Ei Animation</Productor>
+        <Director>Hiroaki Akagi</Director>
+        <Anio>2022</Anio>
+        <Duracion>1h 13m</Duracion>
+        <Genero>Anime, Cine Romántico</Genero>
+        <Sinopsis>
+            El último verano de Takagi y Nishikata en la escuela 
+            secundaria está a punto de comenzar, ¡y ya ha tenido 
+            un comienzo conmovedor! Cuando la pareja encuentra un 
+            gatito abandonado, deciden trabajar juntos y cuidar a 
+            su adorable nuevo compañero hasta que puedan localizar 
+            a su madre desaparecida. Lo que sigue es el verdadero 
+            comienzo de esta conmovedora historia de amor joven.
+        </Sinopsis>
+        <Foto>Gekij_Iban_Karakai_Jouzu_no_Takagi-san.png</Foto>
+        <URL>https://animefenix.tv/karakai-jouzu-no-takagi-san-movie</URL>
+    </Pelicula>
+
+    <Pelicula>
+        <Titulo>Coco</Titulo>
+        <Nacionalidad>Estados Unidos</Nacionalidad>
+        <Productor>Pixar</Productor>
+        <Director>Adrián Molina, Lee Unkrich</Director>
+        <Anio>2017</Anio>
+        <Duracion>1h 45m</Duracion>
+        <Genero>Animación, Melodrama, Cine Musical</Genero>
+        <Sinopsis>
+            Miguel es un niño que sueña con ser músico, pero su familia se 
+            lo prohíbe porque su tatarabuelo, músico, los abandonó, y quieren 
+            obligar a Miguel a ser zapatero, como todos los miembros de la 
+            familia. Por accidente, Miguel entra en la Tierra de los Muertos, 
+            de donde sólo podrá salir si un familiar difunto le concede su 
+            bendición, pero su tatarabuela se niega a dejarlo volver con los 
+            vivos si no promete que no será músico.
+        </Sinopsis>
+        <Foto>Coco.jpg</Foto>
+        <URL>https://www.disney.es/peliculas/coco</URL>
+    </Pelicula>
+
+    <Pelicula>
+        <Titulo>La Mascara</Titulo>
+        <Nacionalidad>Estados Unidos</Nacionalidad>
+        <Productor>New Line Cinema</Productor>
+        <Director>Chuck Russell</Director>
+        <Anio>1994</Anio>
+        <Duracion>1h 41m</Duracion>
+        <Genero>Comedia, Cine de Terror</Genero>
+        <Sinopsis>
+            Un aburrido empleado de banca encuentra una máscara 
+            que representa a Loki, un dios de la malicia y la 
+            travesura, la cual le transformará por completo.
+        </Sinopsis>
+        <Foto>La_Mascara.jpg</Foto>
+        <URL>https://www.tokyvideo.com/es/video/la-mascara-1994-hd-castellano-pelicula-completa</URL>
+    </Pelicula>
+
+    <Pelicula>
+        <Titulo>Natsu e no Tonneru, Sayonara no Deguchi</Titulo>
+        <Nacionalidad>Japon</Nacionalidad>
+        <Productor>CLAP</Productor>
+        <Director>Tomohisa Taguchi</Director>
+        <Anio>2022</Anio>
+        <Duracion>1H 24M</Duracion>
+        <Genero>Romance, Ciencia ficción</Genero>
+        <Sinopsis>
+            Un estudiante de preparatoria que vive en un pueblo rural 
+            de la costa. Perdió a su hermana menor en un accidente. 
+            Su educación le dio una personalidad vacía, y pasaba sus 
+            días dejándose llevar por la corriente de la vida.
+        </Sinopsis>
+        <Foto>The_Tunnel.jpg</Foto>
+        <URL>https://animefenix.tv/natsu-e-no-tunnel-sayonara-no-deguchi</URL>
+    </Pelicula>
+</VideoClub>

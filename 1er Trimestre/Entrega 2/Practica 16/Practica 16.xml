@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Practica 16.xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <numPaginas>830</numPaginas>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <numPaginas>124</numPaginas>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editor>Dykinson</editor>
+        <numPaginas>97</numPaginas>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+    </libro>
+    <libro>
+        <titulo>El pacifista</titulo>
+        <autor>John Boyne</autor>
+        <editor>Penguin Random House Grupo Editorial España</editor>
+        <numPaginas>288</numPaginas>
+        <isbn>978-8415-6300-81</isbn>
+        <precio>10.50</precio>
+    </libro>
+    <libro>
+        <titulo>El niño con el pijama de rayas</titulo>
+        <autor>John Boyne</autor>
+        <editor>Penguin Random House Grupo Editorial España</editor>
+        <numPaginas>224</numPaginas>
+        <isbn>978-8415-6291-91</isbn>
+        <precio>60.50</precio>
+    </libro>
+</libreria>
