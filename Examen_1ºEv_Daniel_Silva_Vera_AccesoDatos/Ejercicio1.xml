@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Ejercicio2.xsl" type="text/xsl"?>
+<!DOCTYPE coches [
+<!ELEMENT coches (cod_coche)+>
+<!ELEMENT cod_coche (marca, modelo, matricula, potencia, plazas, num_puertas)?>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT potencia (#PCDATA)>
+<!ELEMENT plazas (#PCDATA)>
+<!ELEMENT num_puertas (#PCDATA)>
+<!ATTLIST cod_coche codigo ID #REQUIRED>
+]>
+
+<coches>
+    <cod_coche codigo = "A1">
+        <marca>Audi</marca>
+        <modelo>TX450</modelo>
+        <matricula>PTG 4709</matricula>
+        <potencia>130</potencia>
+        <plazas>20</plazas>
+        <num_puertas>4</num_puertas>
+    </cod_coche>
+    <cod_coche codigo = "B1">
+        <marca>Lamborguini</marca>
+        <modelo>Venom</modelo>
+        <matricula>LXP 3002</matricula>
+        <potencia>300</potencia>
+        <plazas>9</plazas>
+        <num_puertas>2</num_puertas>
+    </cod_coche>
+    <cod_coche codigo = "A2">
+        <marca>Audi</marca>
+        <modelo>Modern 380</modelo>
+        <matricula>TSK 7613</matricula>
+        <potencia>200</potencia>
+        <plazas>12</plazas>
+        <num_puertas>4</num_puertas>
+    </cod_coche>
+    <cod_coche codigo = "A3">
+        <marca>Audi</marca>
+        <modelo>GT 350</modelo>
+        <matricula>XRL 5921</matricula>
+        <potencia>170</potencia>
+        <plazas>20</plazas>
+        <num_puertas>2</num_puertas>
+    </cod_coche>
+    <cod_coche codigo = "C1">
+        <marca>Toyota</marca>
+        <modelo>Supra GT</modelo>
+        <matricula>PVP 1140</matricula>
+        <potencia>250</potencia>
+        <plazas>7</plazas>
+        <num_puertas>2</num_puertas>
+    </cod_coche>
+</coches>
